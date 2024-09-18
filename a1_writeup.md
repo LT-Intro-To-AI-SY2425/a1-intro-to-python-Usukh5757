@@ -18,6 +18,8 @@ Mr. Berg will look at all your files to determine what you have completed.  If t
 
 2. Describe some similarities and differences that you found between python and other programming languages you have used in the past?
 
-
+# Python is much more concise than the other languages. We can make multiple lines of code into one line. I think it makes python much easier to use and cleaner to look at.
 
 3. What are some things that you learned through this assignment?
+
+# I learned that there can be multiple different ways to solve one problem. We don't just have to stick to one.  
